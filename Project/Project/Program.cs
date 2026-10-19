@@ -12,5 +12,10 @@ namespace Project
         {
             Console.WriteLine("hello");
         }
+
+        public static void GreetWhite()
+        {
+            Console.WriteLine("hello white");
+        }
     }
 }
